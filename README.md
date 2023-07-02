@@ -15,8 +15,3 @@ Before beginning to answer questions, take some time to review the data dictiona
 10. Add the code to order the query in #9 from highest to lowest average star rating. Which company with more than 5000 reviews across all locations in the dataset has the highest star rating? What is that rating?
 11. Find all the job titles that contain the word ‘Analyst’. How many different job titles are there?
 12. How many different job titles do not contain either the word ‘Analyst’ or the word ‘Analytics’? What word do these positions have in common?
-
-**BONUS: You want to understand which jobs requiring SQL are hard to fill. Find the number of jobs by industry (domain) that require SQL and have been posted longer than 3 weeks.**
-Disregard any postings where the domain is NULL.
-Order your results so that the domain with the greatest number of hard to fill jobs is at the top.
-Which three industries are in the top 4 on this list? How many jobs have been listed for more than 3 weeks for each of the top 4?
